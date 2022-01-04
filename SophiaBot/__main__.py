@@ -86,19 +86,19 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
-        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
+        InlineKeyboardButton(text="Rosi updates 🙋‍♀️ ", url=f"https://t.me/RosiUpdates"),
+        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/RosiSupport"),
     ],
     [
-        InlineKeyboardButton(text="➕ Add me to your Group ➕", url="t.me/SophiaSLBot?startgroup=true"),   
+        InlineKeyboardButton(text="➕ Add me to your Group ➕", url="t.me/MissRosi1_bot?startgroup=true"),   
     ],
 ]
 
 HELP_STRINGS = """
-Hi Boss! I'm <b>Sophia</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
+Hi Boss! I'm <b>Rosi</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
 """
 
-DONATE_STRING = """ Join Updates Channel @SophiaUpdates | Support Group @SophiaSupport_Official"""
+DONATE_STRING = """ Join Updates Channel @RosiUpdates | Support Group @RosiSupport"""
 
 IMPORTED = {}
 MIGRATEABLE = []
